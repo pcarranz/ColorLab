@@ -1,7 +1,6 @@
-San Luis Obispo Children's Museum Color Lab
+RGB RFID Lamp 
 ========
-
-RGB RFID Lamp
+San Luis Obispo Children's Museum Color Lab
 
 This project contains Arduino code that controls an RFID reader module and an analog RGB LED strip. 
 
